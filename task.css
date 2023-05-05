@@ -1,0 +1,90 @@
+.container {
+  margin-inline: 18%;
+}
+
+header {
+  background-color: #333;
+  color: #fff;
+  padding-top: 1%;
+  padding-bottom: 6%;
+}
+
+.container div {
+  float: left;
+  margin-left: 1%;
+}
+
+header ul li {
+  display: inline-block;
+}
+
+.container nav {
+  background-color: #232323;
+  padding: 1%;
+  margin-top: 1%;
+  margin-inline: 4%;
+  float: right;
+  border-radius: 20px;
+}
+#readmore {
+  position: absolute;
+  right: 5%;
+  bottom: 5%;
+}
+.readmore {
+  position: absolute;
+  right: 5%;
+  bottom: 5%;
+}
+.square {
+  background-color: rgba(0, 0, 0, 0.1);
+  width: 30%;
+  height: 300px;
+  float: left;
+  margin-inline: 1%;
+  margin-block: 1%;
+  position: relative;
+}
+
+.size {
+  background-color: #232323;
+  color: #fff;
+  width: 630px;
+  height: 300px;
+  margin-inline: 1%;
+  margin-block: 1%;
+}
+.size div {
+  margin-left: 34%;
+  margin-top: 22%;
+}
+.fotosize {
+  width: 80px;
+  height: 80px;
+  float: left;
+}
+.background {
+  width: 30%;
+  height: 300px;
+  float: left;
+  margin-inline: 2%;
+  margin-block: 2%;
+  position: relative;
+}
+.footer {
+  background-color: #232323;
+  color: #fff;
+  width: 215px;
+  height: 100px;
+  margin-left: 5%;
+  margin-right: 2%;
+  margin-block: 1%;
+}
+
+.footer div {
+  margin-left: 8%;
+  margin-top: 15%;
+}
+.footer-last {
+  margin-right: -1%;
+}
