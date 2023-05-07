@@ -44,6 +44,9 @@ header ul li {
   margin-inline: 1%;
   margin-block: 1%;
   position: relative;
+  padding-inline: 6px;
+  padding-top: 5px;
+  box-sizing: border-box;
 }
 
 .size {
@@ -70,6 +73,9 @@ header ul li {
   margin-inline: 2%;
   margin-block: 2%;
   position: relative;
+  padding-inline: 6px;
+  padding-top: 5px;
+  box-sizing: border-box;
 }
 .footer {
   background-color: #232323;
